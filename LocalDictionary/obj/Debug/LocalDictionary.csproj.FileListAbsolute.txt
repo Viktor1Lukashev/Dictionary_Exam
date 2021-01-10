@@ -1,0 +1,6 @@
+C:\Users\пк\source\repos\exam\LocalDictionary\bin\Debug\LocalDictionary.dll
+C:\Users\пк\source\repos\exam\LocalDictionary\bin\Debug\LocalDictionary.pdb
+C:\Users\пк\source\repos\exam\LocalDictionary\obj\Debug\LocalDictionary.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\exam\LocalDictionary\obj\Debug\LocalDictionary.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\exam\LocalDictionary\obj\Debug\LocalDictionary.dll
+C:\Users\пк\source\repos\exam\LocalDictionary\obj\Debug\LocalDictionary.pdb

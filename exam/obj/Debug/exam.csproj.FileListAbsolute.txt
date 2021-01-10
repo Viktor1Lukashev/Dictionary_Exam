@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\exam\exam\bin\Debug\exam.exe.config
+C:\Users\пк\source\repos\exam\exam\bin\Debug\exam.exe
+C:\Users\пк\source\repos\exam\exam\bin\Debug\exam.pdb
+C:\Users\пк\source\repos\exam\exam\obj\Debug\exam.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\exam\exam\obj\Debug\exam.exe
+C:\Users\пк\source\repos\exam\exam\obj\Debug\exam.pdb
+C:\Users\пк\source\repos\exam\exam\bin\Debug\LocalDictionary.dll
+C:\Users\пк\source\repos\exam\exam\bin\Debug\LocalDictionary.pdb
+C:\Users\пк\source\repos\exam\exam\obj\Debug\exam.csproj.CopyComplete
+C:\Users\пк\source\repos\exam\exam\bin\Debug\exam.exe.manifest
+C:\Users\пк\source\repos\exam\exam\bin\Debug\exam.application
+C:\Users\пк\source\repos\exam\exam\obj\Debug\exam.exe.manifest
+C:\Users\пк\source\repos\exam\exam\obj\Debug\exam.application
